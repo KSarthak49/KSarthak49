@@ -48,13 +48,7 @@
   </a>
 </div>
 
-### 🏆 Top Languages
 
-<div align="center">
-  <a href="https://github.com/KSarthak49">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSarthak49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
 
 <br />
 
