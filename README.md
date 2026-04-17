@@ -53,7 +53,7 @@
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
-| **🎨 DreamCanvas AI** | A full-stack sleek AI image generator utilizing MongoDB, Express, and React with advanced framer-motion animations. | [View Project](#) *(Remember to add this link!)* |
+| **🎨 DreamCanvas AI** | A full-stack sleek AI image generator utilizing MongoDB, Express, and React with advanced framer-motion animations. | [View Project](#) |
 | **💼 Job-Portal-Application** | A comprehensive platform acting as a bridge between active employers and job-seekers. | [View Source](https://github.com/KSarthak49/Job-Portal-Application-) |
 | **💬 Chat-App** | A modern, real-time communication platform utilizing sophisticated web sockets. | [View Source](https://github.com/KSarthak49/Chat-App) |
 
