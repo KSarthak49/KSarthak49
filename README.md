@@ -44,7 +44,7 @@
 **Enterprise & Administration Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Admin-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce_Admin-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
